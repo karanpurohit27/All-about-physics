@@ -35,5 +35,13 @@
     
     "formula_page": "https://byjus.com/jee/important-simple-harmonic-motion-formulas-for-jee/"
     },
+    "id": "4"',
+    
+    "chapter": "simple harmonic function",
+    
+    "application": "https://byjus.com/jee/important-simple-harmonic-motion-formulas-for-jee/",
+    
+    "formula_page": "https://byjus.com/jee/important-simple-harmonic-motion-formulas-for-jee/"
+    },
 ]  
 
