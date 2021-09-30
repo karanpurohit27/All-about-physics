@@ -27,6 +27,13 @@
     
     "formula_page": "https://courses.lumenlearning.com/physics/chapter/10-3-dynamics-of-rotational-motion-rotational-inertia/"
     },
-
+ "id": "4"',
+    
+    "chapter": "simple harmonic function",
+    
+    "application": "https://byjus.com/jee/important-simple-harmonic-motion-formulas-for-jee/",
+    
+    "formula_page": "https://byjus.com/jee/important-simple-harmonic-motion-formulas-for-jee/"
+    },
 ]  
 
